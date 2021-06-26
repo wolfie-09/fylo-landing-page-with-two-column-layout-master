@@ -1,0 +1,56 @@
+header
+    .logo
+    nav .primary-nav
+        ul
+            li
+
+section .hero (flex) (bg - url() bottom no-repeat) (height = 800px)
+    .right-side
+        h1 .section-title (mobile - 1.5rem || desktop - 2.625rem)
+        p - .text (1rem)
+        div.input
+            input email (min-width: 256px || width: 60%)
+            input button 
+    .left-side
+        img 
+
+section  (flex) (bg)
+    .right-side
+        h1 .section-title
+        p .text (mobile - 14px || desktop - 1rem)
+        p .text
+        a [text, img] border
+        div.card
+            img
+            blockquote
+            div.info (display flex)
+                img
+                p <name> <br> <designation>
+    .left-side
+        img
+
+section
+    .right-side
+        h1 
+        p
+    .left-side
+        input email
+        input button
+
+footer
+    .logo
+    .company-info
+        p [img, a]
+        p [img,a]
+    nav .footer-nav
+        ul
+            li
+    nav .footer-nav
+        ul
+            li
+    nav .footer-nav .socialmedia-nav
+        ul
+            li
+
+
+section padding 3% 5%
