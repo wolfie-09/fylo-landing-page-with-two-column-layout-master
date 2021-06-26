@@ -180,7 +180,7 @@ nav {
     display: flex;
     flex-direction: column-reverse;
     padding: .5rem 0 1rem;
-    background-color: var(--grayish-blue);
+    background-color: #f8f8fe;
     text-align: center;
 }
 .feature .title {
