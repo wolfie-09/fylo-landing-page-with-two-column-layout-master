@@ -29,7 +29,7 @@ There is a folder in the repo that contains the screenshot of the website on dif
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/wolfie-09/fylo-landing-page-with-two-column-layout-master)
-- Live Site URL: [Netlify Deployed Site]()
+- Live Site URL: [Netlify Deployed Site](https://loving-booth-9756ce.netlify.app/)
 
 ## My process
 
