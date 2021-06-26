@@ -529,7 +529,6 @@ footer .social-icon {
 
 @media screen and (min-width: 1000px) {
     body {
-        max-width: 1440px;
         margin: 0 auto;
     }
     /* Header */
